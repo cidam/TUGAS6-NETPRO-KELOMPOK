@@ -1,4 +1,4 @@
-## TUGAS 5 NETPRO ##
+## TUGAS 6 NETPRO ##
 
 <p align="center"
   <a><strong>  NAMA KELOMPOK :  </strong></a> 
@@ -21,10 +21,29 @@
 
 [![Screen-Shot-2019-10-06-at-18-03-38.png](https://i.postimg.cc/bdcFgK0k/Screen-Shot-2019-10-06-at-18-03-38.png)](https://postimg.cc/SYdrN1vx)
 
+<p align="center">
+  <a> Gambar 1 </a>
+</p>
+
 [![Screen-Shot-2019-10-06-at-18-16-16.png](https://i.postimg.cc/76qB53HM/Screen-Shot-2019-10-06-at-18-16-16.png)](https://postimg.cc/kVhNZttB)
+
+<p align="center">
+  <a> Gambar 2 </a>
+</p>
 
 [![Screen-Shot-2019-10-06-at-17-58-45.png](https://i.postimg.cc/J0fZk83V/Screen-Shot-2019-10-06-at-17-58-45.png)](https://postimg.cc/n91Cy6w0)
 
+<p align="center">
+  <a> Gambar 3 </a>
+</p>
+
 [![Screen-Shot-2019-10-06-at-17-59-11.png](https://i.postimg.cc/yd5fYkd7/Screen-Shot-2019-10-06-at-17-59-11.png)](https://postimg.cc/5YB5s9Lr)
 
+<p align="center">
+  <a> Gambar 4 </a>
+</p>
+
 [![Screen-Shot-2019-10-06-at-17-59-33.png](https://i.postimg.cc/SKPLcHpr/Screen-Shot-2019-10-06-at-17-59-33.png)](https://postimg.cc/mcQFsXkz)
+<p align="center">
+  <a> Gambar 5 </a>
+</p>
