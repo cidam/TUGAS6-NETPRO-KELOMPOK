@@ -15,7 +15,10 @@
   <a>  Sella Tresnasari  (1301188565)  </a> 
 </p> 
 
-#### HASIL RUNNING NOMOR 1 ####
+#### NOMOR 1 ####
+
+![fsm nomor 1](https://user-images.githubusercontent.com/54678313/66270748-3b032d80-e881-11e9-8830-785271102a6e.jpg)
+
 
 #### HASIL RUNNING NOMOR 2 ####
 
