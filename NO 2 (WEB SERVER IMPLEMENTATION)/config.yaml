@@ -1,0 +1,7 @@
+database:
+  localhost: "localhost"
+  port: "27017"
+  db: "employee"
+server:
+  host: "localhost"
+  port: 8800
