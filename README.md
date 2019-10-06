@@ -19,6 +19,8 @@
 
 ![fsm nomor 1](https://user-images.githubusercontent.com/54678313/66270748-3b032d80-e881-11e9-8830-785271102a6e.jpg)
 
+###### Cara Kerja : ######
+
 Didalam config.yaml server membaca config untuk menentukan nama database, tabel, port database, dan juga port http untuk mengakses web aplikasi. Lalu setelah membaca config, server akan mengecek koneksi ke databse yang digunakan, jika dapat terhubung server akan membuka rute-rute yang dapat diakses. Didalam web aplikasi pengguna dapat melakukan CRUD seperti menambahkan data karyawan baru, melihat data karyawan yang tersimpan, mengedit data karyawan yang telah disimpan, dan juga menghapus data karyawan.
 
 
